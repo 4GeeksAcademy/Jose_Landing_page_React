@@ -5,11 +5,11 @@ const Jumbotron = (props) => {
         <>
             <div className='row bg-light py-4'>
                 <div className='col-12'>
-                    <h1 className='display-4 text-warning'>25% de descuento en el primer pedido!</h1>
+                    <h1 className='display-4 text-success'>Cafetería JoseGeek!</h1>
                     <p>
                         La mejor cafetería online que le lleva sus desayunos y meriendas directamente a casa aún calientes y deliciosos.
                     </p>
-                    <button className='btn btn-warning'>Aprovecha el descuento</button>
+                    <button className='btn btn-primary'>Aprovecha el descuento del 25%</button>
                 </div>
             </div>
             

@@ -9,7 +9,7 @@ const Card = (props) => {
                 <div className="card-body">
                     <h5 className="card-title">{props.item.title}</h5>
                     <p className="card-text">{props.item.text}</p>
-                    <button type="button" class="btn btn-warning">Hacer pedido</button>
+                    <button type="button" class="btn btn-primary">Hacer pedido</button>
                 </div>
             </div>
         </>
