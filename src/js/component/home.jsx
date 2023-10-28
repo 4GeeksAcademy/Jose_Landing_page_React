@@ -9,10 +9,10 @@ import Footer from "./Footer.jsx";
 const Home = () => {
 
 	const cardList = [
-		{ title: "Pizza", image: "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", text: "Your favorite pizza places here!" },
-		{ title: "Sushi", image: "https://images.pexels.com/photos/6531076/pexels-photo-6531076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", text: "Your favorite sushi places here!" },
-		{ title: "Hamburguesas", image: "https://images.pexels.com/photos/1474930/pexels-photo-1474930.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", text: "Your favorite hamburguers here!" },
-		{ title: "Batidos", image: "https://images.pexels.com/photos/1251210/pexels-photo-1251210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", text: "Your favorite smoothie places here!" }
+		{ title: "Café con Macarons", image: "https://cdn.pixabay.com/photo/2021/12/06/21/34/sweets-6851675_640.jpg", text: "Tu mejor cafetería online!" },
+		{ title: "Café con churros", image: "https://cdn.pixabay.com/photo/2017/03/30/15/46/churros-2188869_640.jpg", text: "Tu mejor cafetería online!" },
+		{ title: "Café y desayuno completo", image: "https://cdn.pixabay.com/photo/2020/04/22/22/08/cafe-5080266_640.jpg", text: "Tu mejor cafetería online!" },
+		{ title: "Café solo", image: "https://cdn.pixabay.com/photo/2019/12/02/11/23/drink-4667507_640.jpg", text: "Tu mejor cafetería online!" }
 	];
 
 	return (

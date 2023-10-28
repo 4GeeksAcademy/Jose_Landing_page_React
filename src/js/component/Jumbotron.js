@@ -5,11 +5,11 @@ const Jumbotron = (props) => {
         <>
             <div className='row bg-light py-4'>
                 <div className='col-12'>
-                    <h1 className='display-4 text-warning'>20% descount on pizza!</h1>
+                    <h1 className='display-4 text-warning'>25% de descuento en el primer pedido!</h1>
                     <p>
-                        This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.
+                        La mejor cafetería online que le lleva sus desayunos y meriendas directamente a casa aún calientes y deliciosos.
                     </p>
-                    <button className='btn btn-warning'>Get discount</button>
+                    <button className='btn btn-warning'>Aprovecha el descuento</button>
                 </div>
             </div>
             
