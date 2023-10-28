@@ -5,7 +5,6 @@ import Jumbotron from "./Jumbotron";
 import Card from "./Card";
 import Footer from "./Footer.jsx";
 
-//create your first component
 const Home = () => {
 
 	const cardList = [
